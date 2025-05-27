@@ -18,7 +18,15 @@
      <li> 💬 Ask me about Python , Django , Flask, C# </li>
      <li>📫 How to reach me ibahare05@gmail.com </li>
   </ul>
-  
+
+<div class="section">
+  <h2 class="section-title">🧠 Soft Skills</h2>
+  <ul>
+   <li>Fast-leaner</li>
+   <li>team-work</li>
+  </ul>
+</div>
+
 <h3 align="left">Connect with me:</h3>
   <div>
     <p align="left">
