@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Mysql**
 
-- 💬 Ask me about **Python , Django , Flask, C#**
+- 💬 Ask me about **Python , Django , Flask, Excel, Mysql**
 
 - 📫 How to reach me **ibahare05@gmail.com**
 
