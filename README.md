@@ -20,7 +20,7 @@
   </ul>
 
 <div class="section">
-  <h2 class="section-title">🧠 Soft Skills</h2>
+  <h2 class="section-title"> Soft Skills</h2>
   <ul>
    <li>Fast-leaner</li>
    <li>team-work</li>
