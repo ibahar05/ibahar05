@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bahar</h1>
-<h3 align="center">I have experience with a variety of technologies, including Python, Django, Flask, HTML/CSS, MySQL, Excel, and C#, and I am always eager to deepen my understanding of these skills and discover new ones. I love the process of taking on new challenges, whether it’s building web applications, analyzing data, or designing efficient systems.</h3>
+<h3 align="center">I have experience with a variety of technologies, including Python, Django, Flask, HTML/CSS, MySQL, Excel, and I am always eager to deepen my understanding of these skills and discover new ones. I love the process of taking on new challenges, whether it’s building web applications, analyzing data, or designing efficient systems.</h3>
 
 <p align="left"> <a href="https://twitter.com/thattharu" target="blank"><img src="https://img.shields.io/twitter/follow/thattharu?logo=twitter&style=for-the-badge" alt="thattharu" /></a> </p>
 
