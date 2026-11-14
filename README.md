@@ -15,7 +15,8 @@
     <h2 class="section-title">What I'm Working On Next</h2>
   <ul>
      <li> 🌱 I’m currently mastering django and python advanced </li>
-     <li> 💬 Ask me about Python , Django , Flask, C# </li>
+    <li> 🚀 I’m currently mastering django and python advanced </li>
+     <li> 💬 Ask me about Python , Django </li>
      <li>📫 How to reach me ibahare05@gmail.com </li>
   </ul>
 
