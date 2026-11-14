@@ -5,7 +5,7 @@
 <h1>About Me</h1>
   <div class+"about-me">
     <ul>
-      <li>I have experience with a variety of technologies, including Python, Django, Flask, HTML/CSS, MySQL, Excel</li>
+      <li>I have experience with a variety of technologies, including Python, Django, Flask, HTML/CSS/JS, SQL, Excel.</li>
       <li>I am always eager to deepen my understanding of these skills and discover new ones.</li>
       <li>I love the process of taking on new challenges, whether it’s building web applications, analyzing data, or designing efficient systems.</li>
     </ul>  
@@ -14,8 +14,8 @@
 <div class="section">
     <h2 class="section-title">What I'm Working On Next</h2>
   <ul>
-     <li> 🌱 I’m currently mastering django and python advanced </li>
-    <li> 🚀 I’m currently mastering django and python advanced </li>
+     <li> 🌱 I'm currently mastering django and python advanced </li>
+    <li> 🚀 I'm Exploring React and connecting it with Django </li>
      <li> 💬 Ask me about Python , Django </li>
      <li>📫 How to reach me ibahare05@gmail.com </li>
   </ul>
